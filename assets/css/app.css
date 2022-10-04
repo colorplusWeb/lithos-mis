@@ -626,3 +626,12 @@ button:hover {
 .form-group {
   margin-bottom: 25px;
 }
+
+.anwender-row {
+  margin: 75px 0;
+}
+.anwender .testimony,
+.anwender .address {
+  padding: 0 30px;
+  margin-bottom: 15px;
+}
